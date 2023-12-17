@@ -1,3 +1,3 @@
 # lof-app
 
-## overview
+Locate your lost friends!
